@@ -1,4 +1,8 @@
-### Ola, Hola, Hello, dia duit, merhaba!:hugs:
+### Hi there 👋
+### Merhaba! Sou Daniela!:space_invader:
+### Estudo Programção Front-End no :point_down:
+### Senai junto com o projeto Ford Enter:earth_americas:
+### Gosto de comida Asiatica:rice_ball::sushi::fish_cake:
 <!--
 **dani1393/dani1393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
