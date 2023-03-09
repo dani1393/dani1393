@@ -1,11 +1,11 @@
-### Hi there 👋
 ### Merhaba! Sou Daniela!:space_invader:
+### Estudo Programação Front-End no projeto Ford Enter&Senai:earth_americas:
+### Quero me dedicar a Tecnologia da Informação futuramente, mas agora só pago boletos e sobrevivo:statue_of_liberty:
+### :x:humanas  :heavy_check_mark:exatas
 
-### Estudo Programção Front-End no :point_down:
 
-### Senai junto com o projeto Ford Enter:earth_americas
+<img src="https://cdn.mos.cms.futurecdn.net/3S7ERhgTuxcehRabS6FstX-320-80.jpg">
 
-### Gosto de comida Asiatica:rice_ball::sushi::fish_cake:
 <!--
 **dani1393/dani1393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
