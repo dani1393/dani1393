@@ -1,6 +1,6 @@
 ### Merhaba! Sou Daniela!:space_invader:
 ### Estudo Programação Front-End no projeto Ford Enter&Senai:earth_americas:
-### Quero me dedicar a Tecnologia da Informação futuramente, mas agora só pago boletos e sobrevivo:statue_of_liberty:
+### Em transição paraTecnologia da Informação, atualmente estou nos boletos e sobrevivo:statue_of_liberty:
 ### :x:humanas  :heavy_check_mark:exatas
 
 
