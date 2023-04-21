@@ -1,10 +1,7 @@
 ### Merhaba! Sou Daniela!:space_invader:
 ### Estudo Programação Front-End no projeto Ford Enter&Senai:earth_americas:
-### Em transição paraTecnologia da Informação, atualmente estou nos boletos e sobrevivo:statue_of_liberty:
-### :x:humanas  :heavy_check_mark:exatas
+### Em transição paraTecnologia da Informação
 
-
-<img src="https://cdn.mos.cms.futurecdn.net/3S7ERhgTuxcehRabS6FstX-320-80.jpg">
 
 <!--
 **dani1393/dani1393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
