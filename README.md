@@ -3,6 +3,10 @@
 ### Em transição paraTecnologia da Informação
 
 
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/127353307/223878413-7bc60a8c-b971-43b9-af84-43aeee49f0eb.svg)
+
+
 <!--
 **dani1393/dani1393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
