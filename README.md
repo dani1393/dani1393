@@ -1,6 +1,6 @@
-### Merhaba! Sou Daniela!:space_invader:
-### Estudo Programação Front-End no projeto Ford Enter&Senai:earth_americas:
-### Em transição paraTecnologia da Informação
+### Ola! Meu nome é Daniela!:space_invader:
+### Fiz Programação Front-End no projeto Ford Enter&Senai:earth_americas:
+### Em transição para a carreira_ Tecnologia
 
 
 
